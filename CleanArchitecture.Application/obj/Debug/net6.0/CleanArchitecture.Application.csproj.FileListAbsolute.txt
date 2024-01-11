@@ -1,0 +1,45 @@
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net6.0\CleanArchitecture.Application.deps.json
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net6.0\CleanArchitecture.Application.dll
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net6.0\ref\CleanArchitecture.Application.dll
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net6.0\CleanArchitecture.Application.pdb
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net6.0\CleanArchitecture.Domain.dll
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net6.0\CleanArchitecture.Domain.pdb
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.csproj.AssemblyReference.cache
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.AssemblyInfoInputs.cache
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.AssemblyInfo.cs
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.csproj.CoreCompileInputs.cache
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.csproj.CopyComplete
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.dll
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\ref\CleanArchitecture.Application.dll
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.pdb
+D:\Isa\diplomado\curso vaxidrez\section-5\section-5\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net6.0\CleanArchitecture.Application.deps.json
+D:\Isa\diplomado\curso vaxidrez\section-5\section-5\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net6.0\CleanArchitecture.Application.dll
+D:\Isa\diplomado\curso vaxidrez\section-5\section-5\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net6.0\CleanArchitecture.Application.pdb
+D:\Isa\diplomado\curso vaxidrez\section-5\section-5\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net6.0\CleanArchitecture.Domain.dll
+D:\Isa\diplomado\curso vaxidrez\section-5\section-5\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net6.0\CleanArchitecture.Domain.pdb
+D:\Isa\diplomado\curso vaxidrez\section-5\section-5\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.csproj.AssemblyReference.cache
+D:\Isa\diplomado\curso vaxidrez\section-5\section-5\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Isa\diplomado\curso vaxidrez\section-5\section-5\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.AssemblyInfoInputs.cache
+D:\Isa\diplomado\curso vaxidrez\section-5\section-5\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.AssemblyInfo.cs
+D:\Isa\diplomado\curso vaxidrez\section-5\section-5\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.csproj.CoreCompileInputs.cache
+D:\Isa\diplomado\curso vaxidrez\section-5\section-5\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.csproj.CopyComplete
+D:\Isa\diplomado\curso vaxidrez\section-5\section-5\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.dll
+D:\Isa\diplomado\curso vaxidrez\section-5\section-5\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\refint\CleanArchitecture.Application.dll
+D:\Isa\diplomado\curso vaxidrez\section-5\section-5\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.pdb
+D:\Isa\diplomado\curso vaxidrez\section-5\section-5\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\ref\CleanArchitecture.Application.dll
+C:\sistemas\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net6.0\CleanArchitecture.Application.deps.json
+C:\sistemas\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net6.0\CleanArchitecture.Application.dll
+C:\sistemas\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net6.0\CleanArchitecture.Application.pdb
+C:\sistemas\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net6.0\CleanArchitecture.Domain.dll
+C:\sistemas\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net6.0\CleanArchitecture.Domain.pdb
+C:\sistemas\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.csproj.AssemblyReference.cache
+C:\sistemas\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\sistemas\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.AssemblyInfoInputs.cache
+C:\sistemas\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.AssemblyInfo.cs
+C:\sistemas\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.csproj.CoreCompileInputs.cache
+C:\sistemas\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.csproj.CopyComplete
+C:\sistemas\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.dll
+C:\sistemas\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\refint\CleanArchitecture.Application.dll
+C:\sistemas\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.pdb
+C:\sistemas\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\ref\CleanArchitecture.Application.dll

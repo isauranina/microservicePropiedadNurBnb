@@ -1,0 +1,57 @@
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Infrastructure.deps.json
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Infrastructure.runtimeconfig.json
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Infrastructure.dll
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\ref\CleanArchitecture.Infrastructure.dll
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Infrastructure.pdb
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Application.dll
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Domain.dll
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Application.pdb
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Domain.pdb
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.csproj.AssemblyReference.cache
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.AssemblyInfoInputs.cache
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.AssemblyInfo.cs
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.csproj.CoreCompileInputs.cache
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.csproj.CopyComplete
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.dll
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\ref\CleanArchitecture.Infrastructure.dll
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.pdb
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.genruntimeconfig.cache
+D:\Isa\diplomado\curso vaxidrez\section-5\section-5\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Infrastructure.deps.json
+D:\Isa\diplomado\curso vaxidrez\section-5\section-5\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Infrastructure.runtimeconfig.json
+D:\Isa\diplomado\curso vaxidrez\section-5\section-5\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Infrastructure.dll
+D:\Isa\diplomado\curso vaxidrez\section-5\section-5\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Infrastructure.pdb
+D:\Isa\diplomado\curso vaxidrez\section-5\section-5\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Application.dll
+D:\Isa\diplomado\curso vaxidrez\section-5\section-5\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Domain.dll
+D:\Isa\diplomado\curso vaxidrez\section-5\section-5\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Application.pdb
+D:\Isa\diplomado\curso vaxidrez\section-5\section-5\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Domain.pdb
+D:\Isa\diplomado\curso vaxidrez\section-5\section-5\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.csproj.AssemblyReference.cache
+D:\Isa\diplomado\curso vaxidrez\section-5\section-5\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Isa\diplomado\curso vaxidrez\section-5\section-5\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.AssemblyInfoInputs.cache
+D:\Isa\diplomado\curso vaxidrez\section-5\section-5\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.AssemblyInfo.cs
+D:\Isa\diplomado\curso vaxidrez\section-5\section-5\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Isa\diplomado\curso vaxidrez\section-5\section-5\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.csproj.CopyComplete
+D:\Isa\diplomado\curso vaxidrez\section-5\section-5\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.dll
+D:\Isa\diplomado\curso vaxidrez\section-5\section-5\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\refint\CleanArchitecture.Infrastructure.dll
+D:\Isa\diplomado\curso vaxidrez\section-5\section-5\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.pdb
+D:\Isa\diplomado\curso vaxidrez\section-5\section-5\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.genruntimeconfig.cache
+D:\Isa\diplomado\curso vaxidrez\section-5\section-5\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\ref\CleanArchitecture.Infrastructure.dll
+C:\sistemas\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Infrastructure.deps.json
+C:\sistemas\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Infrastructure.runtimeconfig.json
+C:\sistemas\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Infrastructure.dll
+C:\sistemas\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Infrastructure.pdb
+C:\sistemas\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Application.dll
+C:\sistemas\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Domain.dll
+C:\sistemas\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Application.pdb
+C:\sistemas\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Domain.pdb
+C:\sistemas\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.csproj.AssemblyReference.cache
+C:\sistemas\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\sistemas\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.AssemblyInfoInputs.cache
+C:\sistemas\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.AssemblyInfo.cs
+C:\sistemas\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.csproj.CoreCompileInputs.cache
+C:\sistemas\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.csproj.CopyComplete
+C:\sistemas\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.dll
+C:\sistemas\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\refint\CleanArchitecture.Infrastructure.dll
+C:\sistemas\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.pdb
+C:\sistemas\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.genruntimeconfig.cache
+C:\sistemas\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\ref\CleanArchitecture.Infrastructure.dll
