@@ -1,5 +1,7 @@
 ﻿
-using CleanArchitecture.Domain.Models.Propiedad;
+using CleanArchitecture.Domain;
+using CleanArchitecture.Domain.Common;
+using CleanArchitecture.Domain.Models.sgp;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 
@@ -7,18 +9,41 @@ namespace CleanArchitecture.Infrastructure.Persistence
 {
         public class PGSQLDbContext : DbContext
     {
-        public PGSQLDbContext() { }
-        protected readonly IConfiguration Configuration;
+       
         public PGSQLDbContext(DbContextOptions<PGSQLDbContext> options) : base(options)
         { 
         }
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
             => optionsBuilder.UseNpgsql("Host=localhost;Port=5433;Database=db_nur;Username=postgres;Password=Clave**");
 
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
-        {
-            modelBuilder.UseSerialColumns();
-        }
+
+          public override Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)
+          {
+               foreach (var entry in ChangeTracker.Entries<BaseDomainModel>())
+               {
+                    switch (entry.State)
+                    {
+                         case EntityState.Added:
+                              entry.Entity.CreatedDate = DateTime.Now;
+                              entry.Entity.CreatedBy = "system";
+                              break;
+
+                         case EntityState.Modified:
+                              entry.Entity.LastModifiedDate = DateTime.Now;
+                              entry.Entity.LastModifiedBy = "system";
+                              break;
+                    }
+               }
+
+               return base.SaveChangesAsync(cancellationToken);
+          }
+          protected override void OnModelCreating(ModelBuilder modelBuilder)
+          {
+               modelBuilder.UseSerialColumns();
+              
+
+          }
         // public DbSet<Servicio>? Servicios => Set<Servicio>();
         public DbSet<Servicio>? Servicios { get; set; }
           public DbSet<Pais>? Pais { get; set; }
@@ -29,6 +54,9 @@ namespace CleanArchitecture.Infrastructure.Persistence
           public DbSet<DetalleServicio>? DetalleServicio { get; set; }
           public DbSet<Propiedad>? Propiedad { get; set; }
           public DbSet<ReglasCasa>? ReglasCasa { get; set; }
+
+
+
 
      }
 }

@@ -1,10 +1,10 @@
-﻿using CleanArchitecture.Domain.Models.Propiedad;
+﻿using CleanArchitecture.Domain.Models.sgp;
 using Microsoft.EntityFrameworkCore;
 
 namespace CleanArchitecture.Infrastructure.Persistence
 {
     public interface IPostgreSQLDbContext
     {
-        DbSet<Servicio> Servicios { get; }
+       // DbSet<Servicio> Servicios { get; }
     }
 }
