@@ -6,13 +6,13 @@ namespace CleanArchitecture.Infrastructure.Persistence
 {
      public class PGSQLDbContextSeed
      {
-          public static async Task SeedAsync(PGSQLDbContext context, ILogger<PGSQLDbContextSeed> logger)
+          public static async Task SeedAsync(PgSqlDbContext context, ILogger<PGSQLDbContextSeed> logger)
           {
                if (!context.Propiedad!.Any())
                {
                     context.Propiedad!.AddRange(GetPreconfiguredPropiedad());
                     await context.SaveChangesAsync();
-                    logger.LogInformation("Estamos insertando nuevos records al db {context}", typeof(PGSQLDbContext).Name);
+                    logger.LogInformation("Estamos insertando nuevos records al db {context}", typeof(PgSqlDbContext).Name);
                }
 
           }

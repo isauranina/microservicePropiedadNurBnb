@@ -22,7 +22,7 @@ namespace CleanArchitecture.Application.Features.Propiedad.Commands.UpdatePropie
           {
                _unitOfWork = unitOfWork;
                _mapper = mapper;
-               _logger = logger;
+               _logger = (ILogger<DeletePropiedadCommand>?)logger;
           }
 
           public async Task<Unit> Handle(UpdatePropiedadCommand request, CancellationToken cancellationToken)

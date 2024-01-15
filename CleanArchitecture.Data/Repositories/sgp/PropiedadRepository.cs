@@ -5,9 +5,9 @@ using Microsoft.EntityFrameworkCore;
 
 namespace CleanArchitecture.Infrastructure.Repositories.sgp
 {
-     public class PropiedadRepository : RepositoryBasePGSQL<Propiedad>, IPropiedadRepository
+     public class PropiedadRepository :RepositoryBasePgsql <Propiedad>, IPropiedadRepository
      {
-          public PropiedadRepository(PGSQLDbContext context) : base(context)
+          public PropiedadRepository(PgSqlDbContext context) : base(context)
           { }
 
           public async Task<Propiedad> GetPropiedadByCiudad(long ciudadId)

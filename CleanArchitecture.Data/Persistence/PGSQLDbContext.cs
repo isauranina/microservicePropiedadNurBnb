@@ -7,10 +7,10 @@ using Microsoft.Extensions.Configuration;
 
 namespace CleanArchitecture.Infrastructure.Persistence
 {
-        public class PGSQLDbContext : DbContext
+        public class PgSqlDbContext : DbContext
     {
        
-        public PGSQLDbContext(DbContextOptions<PGSQLDbContext> options) : base(options)
+        public PgSqlDbContext(DbContextOptions<PgSqlDbContext> options) : base(options)
         { 
         }
 

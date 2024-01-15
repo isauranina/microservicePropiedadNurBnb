@@ -21,7 +21,7 @@ namespace CleanArchitecture.API.Controllers.sgp
                _mediator = mediator;
           }
           [HttpPost(Name = "CreatePropiedad")]
-          [Authorize(Roles = "Administrator")]
+         // [Authorize(Roles = "Administrator")]
           [ProducesResponseType((int)HttpStatusCode.OK)]
           public async Task<ActionResult<long>> CreatePropiedad([FromBody] CreatePropiedadCommand command)
           {
