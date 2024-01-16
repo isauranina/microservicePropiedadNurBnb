@@ -11,16 +11,16 @@ namespace CleanArchitecture.Identity.Configurations
             builder.HasData(
                 new IdentityRole
                 { 
-                    Id = "79ba8e3f-5c28-42cb-a03e-babcfb0b5bd8",
-                    Name = "Administrator",
+                    Id = "1425c889-1aa4-47be-88e7-f25f6d546d5a",
+                    Name = "Admin",
                     NormalizedName = "ADMINISTRATOR"
                 },
 
                 new IdentityRole
                 {
-                    Id = "8c26c17c-ffe7-43ad-a3b3-b6d50ca71a63",
-                    Name = "Operator",
-                    NormalizedName = "OPERATOR"
+                    Id = "0a51514a-2e86-48be-99f9-76bbaaf2443e",
+                    Name = "Operador",
+                    NormalizedName = "OPERADOR"
                 }
 
 

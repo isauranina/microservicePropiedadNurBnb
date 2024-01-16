@@ -13,26 +13,26 @@ namespace CleanArchitecture.Identity.Configurations
             builder.HasData(
                     new ApplicationUser
                     {
-                        Id = "f284b3fd-f2cf-476e-a9b6-6560689cc48c",
+                        Id = "088d5455-20d8-46b2-8697-c5cd129f13fd",
                         Email = "admin@locahost.com",
                         NormalizedEmail = "admin@locahost.com",
                         Nombre = "Isaura",
                         Apellidos = "Nina",
                         UserName = "Isa",
-                        NormalizedUserName = "Isa",
-                        PasswordHash = hasher.HashPassword(null, "Isa2025$"),
+                        NormalizedUserName = "inina",
+                        PasswordHash = hasher.HashPassword(null, "Clave**123"),
                         EmailConfirmed = true,
                     },
                     new ApplicationUser
                     {
-                        Id = "294d249b-9b57-48c1-9689-11a91abb6447",
+                        Id = "451ce67b-a662-46fa-9c64-d672ac62cd2d",
                         Email = "juanperez@locahost.com",
                         NormalizedEmail = "juanperez@locahost.com",
                         Nombre = "Juan",
                         Apellidos = "Perez",
                         UserName = "juanperez",
                         NormalizedUserName = "juanperez",
-                        PasswordHash = hasher.HashPassword(null, "Isa2025$"),
+                        PasswordHash = hasher.HashPassword(null, "Clave**123"),
                         EmailConfirmed = true,
                     }
 
